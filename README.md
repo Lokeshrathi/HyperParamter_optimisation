@@ -8,6 +8,10 @@ Output for RandomSearch Cv:
 
 ![](Image/Random.png)
 
+## I have added a sample code file(.ipynb) for practical reference on the working of Hyperparamter Optimisation.
+- Data Source [link](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+- Kaggle [Notebook](https://www.kaggle.com/lokeshrth4617/hyperparamter-modeling-the-beginner-s-guide)
+
 Do STAR mark if you find this repo helpful. 
 
 --- 
